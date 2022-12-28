@@ -1,0 +1,22 @@
+.leaderboard-table{
+   margin: auto;
+   padding: 10px;
+}
+
+.p-datatable .p-datatable-header {
+   background: #f8f9fa;
+   color: #010328;
+   border: 1px solid #010328;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+   border-width: 1px 0 1px 0;
+   padding: 1rem 1rem;
+   font-weight: 700;
+}
+
+.p-datatable .p-paginator-bottom {
+   border-width: 0 0 1px 0;
+   border-radius: 0;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+}
