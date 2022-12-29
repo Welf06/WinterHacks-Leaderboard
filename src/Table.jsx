@@ -74,7 +74,7 @@ function Table() {
    const renderHeader = () => {
         return (
             <div className="flex justify-content-between align-items-center">
-                <h5 className="m-0">Last Updated : 29/12/2022 10:00</h5>
+                <h5 className="m-0">Last Updated : 29/12/2022 13:00</h5>
                 <span className="p-input-icon-left">
                     <i className="pi pi-search" />
                     <InputText value={globalFilterValue} onChange={onGlobalFilterChange} placeholder="Keyword Search" />
@@ -1176,7 +1176,7 @@ function Table() {
     {
         "Roll Number": "2021BCS0069",
         "Name": "Rohit Chenna",
-        "Day1 Figma Workshop ": "",
+        "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
         "Day2 GitHub Workshop": "5",
         "Day2 Tech Article": "",
@@ -1187,7 +1187,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "10"
+        "Total": "15"
     },
     {
         "Roll Number": "2021BCS0070",
@@ -2138,7 +2138,7 @@ function Table() {
         "Name": "Mohit Gupta",
         "Day1 Figma Workshop ": "",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "25",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -2147,7 +2147,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "10"
+        "Total": "30"
     },
     {
         "Roll Number": "2021BCS0130",
@@ -4954,7 +4954,7 @@ function Table() {
         "Name": "SUJAL SARASWATH",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "25",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -4963,7 +4963,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "35"
     },
     {
         "Roll Number": "2022BCS0016",
@@ -5018,7 +5018,7 @@ function Table() {
         "Name": "ABHINAV BHAGWAT",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "20",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -5027,7 +5027,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "30"
     },
     {
         "Roll Number": "2022BCS0020",
@@ -5098,7 +5098,7 @@ function Table() {
         "Name": "GUNJ JOSHI",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "25",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -5107,7 +5107,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "35"
     },
     {
         "Roll Number": "2022BCS0025",
@@ -5274,7 +5274,7 @@ function Table() {
         "Name": "NAMAN NITHIN RAO",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "15",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "",
         "Day3 Linux Quiz": "",
@@ -5283,14 +5283,14 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "10"
+        "Total": "20"
     },
     {
         "Roll Number": "2022BCS0036",
         "Name": "Nykaj",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "25",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -5299,7 +5299,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "35"
     },
     {
         "Roll Number": "2022BCS0037",
@@ -5530,7 +5530,7 @@ function Table() {
         "Name": "SURAJ RATHORE",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "10",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -5539,7 +5539,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "20"
     },
     {
         "Roll Number": "2022BCS0052",
@@ -5628,14 +5628,14 @@ function Table() {
         "Day1 Competitive Programming": "",
         "Day2 GitHub Workshop": "5",
         "Day2 Tech Article": "",
-        "Day3 Intro to Linux Wokshop": "5",
+        "Day3 Intro to Linux Wokshop": "15",
         "Day3 Linux Quiz": "",
         "Day4 Cloud Workshop": "",
         "Day4 Cloud Quiz": "",
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "10"
+        "Total": "20"
     },
     {
         "Roll Number": "2022BCS0058",
@@ -5786,7 +5786,7 @@ function Table() {
         "Name": "BAVISHYA ",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "10",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -5795,14 +5795,14 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "20"
     },
     {
         "Roll Number": "2022BCS0068",
         "Name": "ABEL PHILIP JOSEPH",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "20",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -5811,7 +5811,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "30"
     },
     {
         "Roll Number": "2022BCS0069",
@@ -6551,10 +6551,10 @@ function Table() {
     },
     {
         "Roll Number": "2022BCS0115",
-        "Name": "",
+        "Name": "Atharv Mishra",
         "Day1 Figma Workshop ": "",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "",
+        "Day2 GitHub Workshop": "15",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -6563,7 +6563,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "5"
+        "Total": "20"
     },
     {
         "Roll Number": "2022BCS0116",
@@ -6634,7 +6634,7 @@ function Table() {
         "Name": "REETAM DEY",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "25",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -6643,7 +6643,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "35"
     },
     {
         "Roll Number": "2022BCS0121",
@@ -8650,7 +8650,7 @@ function Table() {
         "Name": "TANYA GUPTA",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "25",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -8659,7 +8659,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "35"
     },
     {
         "Roll Number": "2022BCD0011",
@@ -9226,7 +9226,7 @@ function Table() {
         "Name": "ANKUR MAJUNDAR",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "15",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -9235,7 +9235,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "25"
     },
     {
         "Roll Number": "2022BCD0047",
@@ -10298,7 +10298,7 @@ function Table() {
         "Name": "SARTHAK GUPTA",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "20",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -10307,7 +10307,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "30"
     },
     {
         "Roll Number": "2022BCY0055",
@@ -10682,7 +10682,7 @@ function Table() {
         "Name": "VEDANTA S P",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "20",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -10691,7 +10691,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "30"
     },
     {
         "Roll Number": "2022BEC0014",
@@ -10794,7 +10794,7 @@ function Table() {
         "Name": "ANJU Y",
         "Day1 Figma Workshop ": "5",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "5",
+        "Day2 GitHub Workshop": "10",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "5",
         "Day3 Linux Quiz": "",
@@ -10803,7 +10803,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "15"
+        "Total": "20"
     },
     {
         "Roll Number": "2022BEC0021",
@@ -11207,10 +11207,10 @@ function Table() {
     },
     {
         "Roll Number": "2022BEC0046",
-        "Name": "",
+        "Name": "Aditya Sharma",
         "Day1 Figma Workshop ": "",
         "Day1 Competitive Programming": "",
-        "Day2 GitHub Workshop": "",
+        "Day2 GitHub Workshop": "20",
         "Day2 Tech Article": "",
         "Day3 Intro to Linux Wokshop": "",
         "Day3 Linux Quiz": "",
@@ -11219,7 +11219,7 @@ function Table() {
         "Day5 CTF  Workshop": "",
         "Day5 CTF Event": "",
         "Figma WeekLong": "",
-        "Total": "0"
+        "Total": "20"
     },
     {
         "Roll Number": "2022BEC0047",
