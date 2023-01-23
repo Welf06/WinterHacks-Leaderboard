@@ -74,7 +74,7 @@ function Table() {
    const renderHeader = () => {
         return (
             <div className="flex justify-content-between align-items-center">
-                <h5 className="m-0">Last Updated : 29/12/2022 13:00</h5>
+                <h5 className="m-0">Last Updated : 23/01/2023 13:00</h5>
                 <span className="p-input-icon-left">
                     <i className="pi pi-search" />
                     <InputText value={globalFilterValue} onChange={onGlobalFilterChange} placeholder="Keyword Search" />
