@@ -10738,7 +10738,7 @@ function Table() {
 					<Column field="Rank" header="Rank" align="center" />
 					<Column field="Roll Number" header="Roll Number" align="center"/>
 					<Column field="Name" header="Name" align="center"/>
-					<Column field="Total" header="Points" align="center"/>
+					<Column field="Total" header="Points(120)" align="center"/>
 				</DataTable>
 			</div>
 		</>
